@@ -1,0 +1,2 @@
+pyomo>=6.7
+highspy>=1.7
