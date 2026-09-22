@@ -1,0 +1,20 @@
+Non-Commercial Academic License
+Version 1.0
+
+Copyright (c) 2026 jorsacademy
+
+Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and redistribute the Software solely for non-commercial academic, educational, teaching, and research purposes, subject to the following conditions:
+
+1. Commercial use is prohibited. The Software may not be used, directly or indirectly, for commercial advantage, monetary compensation, paid consulting, production business operations, revenue-generating services, or incorporation into a commercial product or service without prior written permission from the copyright holder.
+
+2. This copyright notice and this license notice must be included in all copies or substantial portions of the Software.
+
+3. Modified versions must clearly state that they have been modified and must retain this same non-commercial restriction unless the copyright holder provides written permission otherwise.
+
+4. The name "jorsacademy" may not be used to endorse or promote products or services derived from the Software without prior written permission.
+
+5. This license does not grant any rights in third-party software used by this project. Gurobi and other dependencies are governed by their own licenses and terms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This is a source-available, non-commercial license and is not an OSI-approved open-source license.
