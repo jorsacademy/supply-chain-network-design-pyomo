@@ -1,4 +1,18 @@
-# Supply Chain Network Design with Pyomo
+# Supply Chain Network Optimization
+
+<!-- portfolio-umbrella:start -->
+## Portfolio role
+
+This repository is the primary umbrella repository for this Jors Academy research area. Related projects have been consolidated under `projects/` so the methods, implementations, experiments, and case studies can be maintained and explored from one place.
+
+### Included projects
+
+- [`bilevel-supply-chain-pricing-optimization`](projects/bilevel-supply-chain-pricing-optimization/)
+- [`bioreactor-supply-chain-optimization-milp`](projects/bioreactor-supply-chain-optimization-milp/)
+- [`gurobi-supply-chain-network-optimization`](projects/gurobi-supply-chain-network-optimization/)
+
+Each consolidated project keeps its own files and a `SOURCE_REPOSITORY.md` provenance record. The snapshot preserves the source repository's default-branch files at consolidation time; repository-level history and metadata remain separate from the snapshot.
+<!-- portfolio-umbrella:end -->
 
 This repository contains a mixed-integer linear programming (MILP) model for a multi-echelon supply chain network. The model is a Python/Pyomo translation of the original GAMS formulation.
 
